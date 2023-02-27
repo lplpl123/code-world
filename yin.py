@@ -1,4 +1,4 @@
 class Yin:
 
     def __init__(self):
-        pass
+        self.approch_target = False
