@@ -1,5 +1,5 @@
-from origins.yang import Yang
-from origins.yin import Yin
+from origins.yinyang.yang import Yang
+from origins.yinyang.yin import Yin
 
 
 # 现在感觉这里只是一个混沌
